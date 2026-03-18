@@ -1,17 +1,43 @@
-# Java Full Stack Learning 🚀
+# 🚀 Java Full Stack Learning Journey
+This repository contains my daily progress while learning Java Full Stack Development from scratch.  
+I am focusing on building strong fundamentals in Java, problem-solving, and real-world coding skills.
 
-This repository shows my daily progress.
+📚 Topics Covered
 
-## Day 1
-- Scanner
-- If-Else
+- Java Basics (Scanner, Data Types)
+- Conditional Statements (If-Else)
+- Loops (for, while, do-while)
+- Arrays (In Progress)
 
-## Day 2
-- Loops
-- Even & Odd Sum
+📅 Daily Progress
 
-## Day 3
+✅ Day 1
+- User Input using Scanner
+- Even/Odd Program
+- Positive/Negative Check
+- Calculator Program
+
+✅ Day 2
+- Loops Practice
+- Even Sum Program
+- Odd Sum Program
+
+🚧 Day 3
 - Arrays
+- Sum & Average (In Progress)
 
-## Author
+🛠️ Technologies Used
+
+- Java
+- VS Code
+- Git & GitHub
+
+🎯 Goal
+
+To become a skilled Java Full Stack Developer by consistently practicing coding, building projects, and mastering backend + frontend technologies.
+
+👨‍💻 Author
+
 Shoaib
+GitHub: https://github.com/abdulshoib
+⭐ *Consistent learning is the key to mastery.*
