@@ -22,7 +22,7 @@ This repository contains my daily learning progress in Java Full Stack Developme
 
 ## 🎯 Goal
 
-To become a Java Full Stack Developer and get placed in a top company.
+To become a Java Full Stack Developer.
 
 ## 🛠️ Technologies
 
