@@ -46,7 +46,7 @@ I have completed BSc and I am currently learning Java Full Stack to build strong
 
 ## 🎯 Goal
 
-To become a Java Full Stack Developer and get placed in a top company.
+To become a Java Full Stack Developer.
 
 ---
 
