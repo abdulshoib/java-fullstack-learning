@@ -1,34 +1,59 @@
 # Java Full Stack Learning 🚀
 
-This repository contains my daily learning progress in Java Full Stack Development.
+This repository contains my daily learning journey in Java Full Stack Development.
 
-## 📅 Progress
+---
 
-### Day 1 - Basics
+## 📌 About Me
 
-* Scanner
+I have completed BSc and I am currently learning Java Full Stack to build strong programming and development skills.
+
+---
+
+## 📅 Learning Progress
+
+### ✅ Day 1 - Basics
+
+* Scanner class
 * If-Else programs
 
-### Day 3 - Arrays Basics
+### ✅ Day 3 - Arrays Basics
 
-* Sum, Max, Min
+* Sum of array
+* Max and Min elements
+* Even and Odd count
 
-### Day 4 - Arrays Advanced
+### ✅ Day 4 - Arrays Advanced
 
-* Reverse Array
-* Even/Odd Count
-* Average
-* Student Marks Analyzer Project
+* Reverse array
+* Average calculation
+* Student Marks Analyzer (Mini Project)
 
-## 🎯 Goal
+### ✅ Day 5 - Searching
 
-To become a Java Full Stack Developer.
+* Linear Search
+* Count occurrences
+* Search in String array
 
-## 🛠️ Technologies
+---
+
+## 🛠️ Technologies Used
 
 * Java
 * Git & GitHub
 
 ---
 
-Consistent learning every day 💪
+## 🎯 Goal
+
+To become a Java Full Stack Developer and get placed in a top company.
+
+---
+
+## 💪 Daily Practice
+
+I am consistently practicing coding and improving my problem-solving skills every day.
+
+---
+
+⭐ Thank you for visiting my repository!
