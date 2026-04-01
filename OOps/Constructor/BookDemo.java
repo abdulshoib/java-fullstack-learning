@@ -13,6 +13,7 @@ class Book {
     // default constructor
     Book() {
     }
+// if a claass contains it is the responsibility of the programmer to create default constructor in the class
 
     void display() {
         System.out.println("Book Id: " + bookId);
@@ -30,3 +31,13 @@ public class BookDemo {
         b2.display();
     }
 }
+/* *
+🎯 Key Rules
+
+Constructor name = same as class name 
+
+It has no return type (not even void)
+It runs automatically when object is created
+Can be overloaded
+Cannot be static
+*/
