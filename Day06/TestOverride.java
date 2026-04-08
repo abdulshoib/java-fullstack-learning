@@ -1,3 +1,4 @@
+package day06;
 
 class Animal {
 
