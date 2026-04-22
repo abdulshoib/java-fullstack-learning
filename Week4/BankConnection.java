@@ -14,7 +14,7 @@ public class BankConnection {
 
             // 2. Check connection
             if (con != null) {
-                System.out.println("Database Connected Successfully 🚀");
+                System.out.println("Database Connected Successfully");
             }
 
             // 3. Close connection
